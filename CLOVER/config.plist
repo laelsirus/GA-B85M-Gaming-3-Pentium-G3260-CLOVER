@@ -113,16 +113,10 @@
 				<data>
 				CwASBA==
 				</data>
-				<key>AAPL,slot-name</key>
-				<string>Built In</string>
 				<key>device-id</key>
 				<data>
 				EgQAAA==
 				</data>
-				<key>device_type</key>
-				<string>VGA compatible controller</string>
-				<key>model</key>
-				<string>Intel Haswell GT1</string>
 			</dict>
 		</dict>
 		<key>USB</key>
